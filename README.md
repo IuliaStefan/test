@@ -1,3 +1,1 @@
-
-,jbghj,hjb
-mhgcmhcgmhcmh
+indManager works like a virtual whiteboard. It lets you quickly capture ideas and information, then organize and contextualize them in the same place. Drag topics around, draw connections between different ideas, and park related notes, links and files where they belong – it all stays contained in one clear, easy-to-navigate map.
